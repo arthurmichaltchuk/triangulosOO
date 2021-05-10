@@ -1,0 +1,7 @@
+C:\Users\Ivana\source\repos\Triangulos\Triangulos.ConsoleApp\obj\Debug\Triangulos.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\Ivana\source\repos\Triangulos\Triangulos.ConsoleApp\obj\Debug\Triangulos.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Ivana\source\repos\Triangulos\Triangulos.ConsoleApp\bin\Debug\Triangulos.ConsoleApp.exe.config
+C:\Users\Ivana\source\repos\Triangulos\Triangulos.ConsoleApp\bin\Debug\Triangulos.ConsoleApp.exe
+C:\Users\Ivana\source\repos\Triangulos\Triangulos.ConsoleApp\bin\Debug\Triangulos.ConsoleApp.pdb
+C:\Users\Ivana\source\repos\Triangulos\Triangulos.ConsoleApp\obj\Debug\Triangulos.ConsoleApp.exe
+C:\Users\Ivana\source\repos\Triangulos\Triangulos.ConsoleApp\obj\Debug\Triangulos.ConsoleApp.pdb
